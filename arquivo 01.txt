@@ -8,4 +8,3 @@ git add nome-do-arquivo / ou git add . "Adiciona todos os arquivos pendentes par
 git status "Para verificar se os arquivos foram adicionados na área de preparação"
 git commit -m "Primeiro arquivo do meu repositório" / -m é utilizado para comentar o commit.
 
-Edição pelo GitHub
