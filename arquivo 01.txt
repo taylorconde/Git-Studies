@@ -1,3 +1,9 @@
+First of all, you need to login your github account
+$ git config --global user.email "taylorconde@gmail.com"
+$ git config --global user.name "taylorconde"
+------------------------
 git clone https://github.com/taylorconde/Git-Studies.git
-git status "Informações"
+git status "Informações dos arquivos na pasta atual"
 git add nome-do-arquivo / ou git add . "Adiciona todos os arquivos pendentes para área de espera"
+git status "Para verificar se os arquivos foram adicionados na área de preparação"
+git commit -m "Primeiro arquivo do meu repositório" / -m é utilizado para comentar o commit.
