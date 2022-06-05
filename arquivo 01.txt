@@ -9,3 +9,4 @@ git status "Para verificar se os arquivos foram adicionados na área de prepara�
 git commit -m "Primeiro arquivo do meu repositório" / -m é utilizado para comentar o commit.
 git log " Check all commits"
 git push origin main " Para empurrar nossos arquivos para nuvem" origin " para ser acertivo ao local de push "
+git pull origin main " Para trazer os arquivos da nuvem para minha máquina"
