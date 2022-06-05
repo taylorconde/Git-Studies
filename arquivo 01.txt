@@ -7,3 +7,5 @@ git status "Informações dos arquivos na pasta atual"
 git add nome-do-arquivo / ou git add . "Adiciona todos os arquivos pendentes para área de espera"
 git status "Para verificar se os arquivos foram adicionados na área de preparação"
 git commit -m "Primeiro arquivo do meu repositório" / -m é utilizado para comentar o commit.
+git log " Check all commits"
+git push origin main " Para empurrar nossos arquivos para nuvem" origin " para ser acertivo ao local de push "
